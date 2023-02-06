@@ -1,1 +1,7 @@
+[deps]
+Plots
+DifferentialEquations
+Distributions
+
+[compat]
 julia = "1.8.3"
